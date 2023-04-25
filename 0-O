@@ -1,5 +1,3 @@
-the time complexities of the Bubble sort algorithm in the best, average, and worst cases:
-
-    Best case: O(n). This occurs when the array is already sorted, so no swaps need to be made.
-
-    Average case: O(n^2). This occurs when the array is partially sorted, so some swaps need to be made.
+O(n)
+O(n^2)
+O(n^2)
